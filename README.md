@@ -5,7 +5,7 @@ Indexing: $ python index.py -i dataset-file -d dictionary-file -p postings-file
 
 Searching: $ python search.py -d dictionary-file -p postings-file -q query-file -o output-file-of-results
 
-CourtSmart | LEGAL RESEARCH SOLUTION
+# CourtSmart | LEGAL RESEARCH SOLUTION
 Introducing CourtSmart – a pioneering NLP application designed to predict legal judgments with remarkable accuracy. Eliminate the uncertainties in legal decision-making and embrace efficiency and precision. CourtSmart leverages advanced natural language processing algorithms to analyze past cases, legal precedents, and relevant data, enabling accurate predictions of potential legal outcomes.
 
 With CourtSmart, legal professionals can make well-informed decisions, save valuable time, and enhance their success rates. Harness the power of AI to transform the legal landscape and allow CourtSmart to guide you toward a more intelligent and efficient legal system.
