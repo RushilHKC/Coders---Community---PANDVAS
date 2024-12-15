@@ -20,11 +20,7 @@ TextVectorization with TF-IDF
 GloVe
 BERT
 Long Short-Term Memory (LSTM)
-FastText
-Experiments
-Training
-Final Steps
-Additional
+
 ## Introduction
 Natural Language Processing (NLP) has found extensive applications in the legal domain, particularly in tasks such as predicting the outcomes of legal judgments. Legal judgment prediction involves assessing the language of legal documents to forecast the outcomes of cases based on historical data.
 
